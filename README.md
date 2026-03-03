@@ -22,7 +22,7 @@ Currently focused on learning and building projects using web technologies and g
 ## 📂 Featured Projects
 - 📝 **Simple Registration System**  
   Web project for registering users using HTML, CSS and JavaScript.  
-  ➜ https://github.com/SEUUSUARIO/simple-registration-system
+  ➜ https://github.com/Nogabss/simple-registration-system
 
 ---
 
